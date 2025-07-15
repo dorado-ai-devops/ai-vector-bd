@@ -4,7 +4,6 @@ chromadb
 langchain-community==0.3.26
 langchain-openai==0.3.26
 langchain==0.3.26
-requests
 tqdm
 requests==2.31.0
 flask>=2.2

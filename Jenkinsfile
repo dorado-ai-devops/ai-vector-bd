@@ -15,7 +15,7 @@ pipeline {
       steps {
         build job: 'auto-pr-pipeline', parameters: [
           string(name: 'GITHUB_USER', value: 'dorado-ai-devops'),
-          string(name: 'GITHUB_REPO', value: 'ai-agent')
+          string(name: 'GITHUB_REPO', value: 'ai-vector-bd')
         ]
       }
     }
