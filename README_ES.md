@@ -13,6 +13,7 @@ Actúa como memoria semántica accesible por microservicios y agentes LangChain 
 
 ---
 
+
 ## 🔧 Funcionalidad
 
 * Almacenamiento y recuperación de embeddings.
